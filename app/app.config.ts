@@ -1,14 +1,14 @@
 export default defineAppConfig({
   global: {
     meetingLink: 'https://cal.com/hugorcd/15min',
-    available: true,
+    available: false,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'CodingwithRK',
+    job: 'Sr.Laravel Developer',
+    email: 'connect@codingwithrk.com',
+    phone: '+917036118293',
+    picture: 'https://avatars.githubusercontent.com/u/107883290?v=4',
   },
   socials: {
     github: 'https://github.com/HugoRCD',
